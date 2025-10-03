@@ -18,4 +18,4 @@ With it I've knowledges in the follow frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
 
-I'm open for new oportunities in this passionate IT field like a job (could be a internships because I'm pursuing a degree in software analysis and development technology 📚), networking 🤝 or contribute in your projects 📈, my contact details are on the left, feel free to get in touch with me 😄.
+I'm open for new oportunities in this passionate IT field like a job 💼 (could be a internships because I'm pursuing a degree in software analysis and development technology 🤓📚), networking 🤝 or contribute in your projects 📈, my contact details are on the left, feel free to get in touch with me 😄.
