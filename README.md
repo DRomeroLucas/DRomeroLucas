@@ -16,7 +16,6 @@
 | <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/"> <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |  
 
 
-<br>
 <h2>⚙️ Backend languages that I know:</h2>  
 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  
