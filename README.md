@@ -5,7 +5,7 @@
 <p>Welcome to my GitHub page 😃</p>  
 <p>I'm an environmental engineer ♻️ and software analysis and development technology student 📓, specializing in the IT field 🖥️, I'm focusing my knowledge in various technologies such as backend ⚙️, frontend 🖼️ and some data science 📊</p>
 <hr>
-<p>You can contact with me in the next in the follow channels:</p>  
+<p>You can contact me through the following channels:</p>  
 
 | <p>Developer email: </p> | <a href="mailto:dromeroldev@gmail.com?Subject=Quiero%20contactar%20contigo%20David"> <img src="https://img.shields.io/badge/dromeroldev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"> </a> |
 |---|---|
