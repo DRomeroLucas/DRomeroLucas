@@ -5,13 +5,19 @@
 <p>Welcome to my GitHub page 😃</p>  
 <p>I'm an environmental engineer ♻️ and software analysis and development technology student 📓, specializing in the IT field 🖥️, I'm focusing my knowledge in various technologies such as backend ⚙️, frontend 🖼️ and some data science 📊</p>
 <hr>
+
+<img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hmbzVxdzRiNTY4cmRzd3R5ZGM1d3N6bmJpdDZ1cnduajU0d2ZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVRRDVP6lqtNQJrzN7/giphy.gif" align="right"/>
+  
 <p>You can contact me through the following channels:</p>  
 
 | <p>Developer email: </p> | <a href="mailto:dromeroldev@gmail.com?Subject=Quiero%20contactar%20contigo%20David"> <img src="https://img.shields.io/badge/dromeroldev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"> </a> |
 |---|---|
 | <p>Work email: </p> | <a href="mailto:davromluc97@gmail.com?Subject=Una%20propuesta%20laboral%20interesante"> <img src="https://img.shields.io/badge/davromluc97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"></a></p> |  
-| <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/"> <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |
+| <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/"> <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |  
 
+<br>
+<br>
+<br>
 <h2>⚙️ Backend languages that I know:</h2>  
 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  
@@ -35,6 +41,8 @@ With it I've knowledges in the follow frameworks:
   [Salto de línea]: # 
 
  <h2>Database 💾🗃️ </h2>  
+
+The database management systems I use:  
 
 | ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 |---|---|
