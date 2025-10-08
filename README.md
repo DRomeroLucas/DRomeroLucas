@@ -6,7 +6,7 @@
 <p>I'm an environmental engineer ♻️ and software analysis and development technology student 📓, specializing in the IT field 🖥️, I'm focusing my knowledge in various technologies such as backend ⚙️, frontend 🖼️ and some data science 📊</p>
 <hr>
 
-<img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hmbzVxdzRiNTY4cmRzd3R5ZGM1d3N6bmJpdDZ1cnduajU0d2ZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVRRDVP6lqtNQJrzN7/giphy.gif" align="right"/>
+<img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hmbzVxdzRiNTY4cmRzd3R5ZGM1d3N6bmJpdDZ1cnduajU0d2ZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVRRDVP6lqtNQJrzN7/giphy.gif"  width="300" height="200" align="right"/>
   
 <p>You can contact me through the following channels:</p>  
 
@@ -15,8 +15,7 @@
 | <p>Work email: </p> | <a href="mailto:davromluc97@gmail.com?Subject=Una%20propuesta%20laboral%20interesante"> <img src="https://img.shields.io/badge/davromluc97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"></a></p> |  
 | <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/"> <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |  
 
-<br>
-<br>
+
 <br>
 <h2>⚙️ Backend languages that I know:</h2>  
 
