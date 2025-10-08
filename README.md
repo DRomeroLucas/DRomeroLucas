@@ -3,7 +3,7 @@
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DRomeroLucas.repoName) <img src="https://komarev.com/ghpvc/?username=DRomeroLucas" alt="DRomeroLucas" />
 
 <p>Welcome to my GitHub page 😃</p>  
-<p>I'm an environmental engineer ♻️ and software analysis and development technology student 📓, specializing in the IT field 🖥️, I'm focusing my knowledge in various technologies such as backend ⚙️, frontend 🖼️ and some data science 📊</p>
+<p>I'm an environmental engineer ♻️ and software analysis and development technology student 📓, specializing in the IT field 🖥️, I'm focusing my knowledge in various technologies such as backend ⚙️, frontend 🖼️ and some data science 📊.</p>
 <hr>
 
 <img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hmbzVxdzRiNTY4cmRzd3R5ZGM1d3N6bmJpdDZ1cnduajU0d2ZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xVRRDVP6lqtNQJrzN7/giphy.gif"  width="300" height="200" align="right"/>
@@ -48,6 +48,6 @@ The database management systems I use:
 
 I'm looking for new oportunities in this passionate IT field like a job 💼 (could be a internships because I'm pursuing a degree in software analysis and development technology 🤓📚), networking 🤝 or contribute in your projects 📈, my contact details are on the left, feel free to get in touch with me 😄.
 
-<p> Below you can see my CV's, I management a software developer profile and a environmental engineer profile, the last one is in spanish because I work as enviromental enginneer in Colombia 🇨🇴, you can resquest for an english cv, I'm glad to share with you </p>  
+<p> Below you can see my CV's, I management a software developer profile and a environmental engineer profile, the last one is in spanish because I work as enviromental enginneer in Colombia 🇨🇴, you can resquest for an english cv, I'm glad to share with you. </p>  
 
 <a href="https://drive.google.com/file/d/1nNu1l33yXpNUyHhCoUp0fvpxrjXW0MXY/view?usp=drive_link"> ![Google Drive](https://img.shields.io/badge/Dev%20CV-4285F4?logo=googledrive&logoColor=750851&labelColor=D3D3D3)</a> <a href="https://drive.google.com/file/d/14yt8dQPGbYYfmVhuayJzjSvmqpt0NTHN/view?usp=drive_link"> ![Google Drive](https://img.shields.io/badge/Env%20CV%20(Es)-4285F4?logo=googledrive&logoColor=fff&labelColor=008000)</a>
