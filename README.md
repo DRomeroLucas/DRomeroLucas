@@ -46,7 +46,7 @@ The database management systems I use:
 |---|---|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | 
 
-I'm looking for new oportunities in this passionate IT field like a job 💼 (could be a internships because I'm pursuing a degree in software analysis and development technology 🤓📚), networking 🤝 or contribute in your projects 📈, my contact details are on the left, feel free to get in touch with me 😄.
+I'm looking for new oportunities in this passionate IT field like a job 💼 (could be a internships because I'm pursuing a degree in software analysis and development technology 🤓📚), networking 🤝 or contribute in your projects 📈, my contact details are on the upper left and int he beggining of my profile, feel free to get in touch with me 😄.
 
 <p> Below you can see my CV's, I management a software developer profile and a environmental engineer profile, the last one is in spanish because I work as enviromental enginneer in Colombia 🇨🇴, you can resquest for an english cv, I'm glad to share with you. </p>  
 
