@@ -10,10 +10,10 @@
   
 <p>You can contact me through the following channels:</p>  
 
-| <p>Developer email: </p> | <a href="mailto:dromeroldev@gmail.com?Subject=Quiero%20contactar%20contigo%20David"  > <img src="https://img.shields.io/badge/dromeroldev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"> </a> |
+| <p>Developer email: </p> | <a href="mailto:dromeroldev@gmail.com?Subject=Quiero%20contactar%20contigo%20David"> <img src="https://img.shields.io/badge/dromeroldev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"> </a> |
 |---|---|
-| <p>Work email: </p> | <a href="mailto:davromluc97@gmail.com?Subject=Una%20propuesta%20laboral%20interesante"  > <img src="https://img.shields.io/badge/davromluc97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"></a></p> |  
-| <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/" > <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |  
+| <p>Work email: </p> | <a href="mailto:davromluc97@gmail.com?Subject=Una%20propuesta%20laboral%20interesante"> <img src="https://img.shields.io/badge/davromluc97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dromeroldev@gmail.com"></a></p> |  
+| <p>LinkedIn profile: </p> | <a href="https://www.linkedin.com/in/ing-david-romero/"> <img src="https://img.shields.io/badge/David%20Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Romero's Profile"></a></p> |  
 
 
 <h2>⚙️ Backend languages that I know:</h2>  
@@ -29,9 +29,9 @@
 |![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)|![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)| ... |
 
   [Line break]: #
-<h2>🧰 The main frameworks that I use:</h2>  
+<h2>🧰 Frameworks:</h2>  
 
-With it I've knowledges in the follow frameworks:  
+With it, I'm experienced in the following frameworks:  
 
 | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
 |---|---|---|
@@ -51,4 +51,4 @@ I'm looking for new oportunities in this passionate IT field like a job 💼 (co
 
 <p> Below you can see my CV's, I management a software developer profile and a environmental engineer profile, the last one is in spanish because I work as enviromental enginneer in Colombia 🇨🇴, you can resquest for an english cv, I'm glad to share with you. </p>  
 
-<a href="https://drive.google.com/file/d/1nNu1l33yXpNUyHhCoUp0fvpxrjXW0MXY/view?usp=drive_link" > ![Google Drive](https://img.shields.io/badge/Dev%20CV-4285F4?logo=googledrive&logoColor=750851&labelColor=D3D3D3)</a> <a href="https://drive.google.com/file/d/14yt8dQPGbYYfmVhuayJzjSvmqpt0NTHN/view?usp=drive_link" > ![Google Drive](https://img.shields.io/badge/Env%20CV%20(Es)-4285F4?logo=googledrive&logoColor=fff&labelColor=008000)</a>
+<a href="https://drive.google.com/file/d/1nNu1l33yXpNUyHhCoUp0fvpxrjXW0MXY/view?usp=drive_link"> ![Google Drive](https://img.shields.io/badge/Dev%20CV-4285F4?logo=googledrive&logoColor=750851&labelColor=D3D3D3)</a> <a href="https://drive.google.com/file/d/14yt8dQPGbYYfmVhuayJzjSvmqpt0NTHN/view?usp=drive_link" > ![Google Drive](https://img.shields.io/badge/Env%20CV%20(Es)-4285F4?logo=googledrive&logoColor=fff&labelColor=008000)</a>
